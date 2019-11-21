@@ -1,5 +1,5 @@
 # PrivateSchool
-Individual project during java bootcamp </b>
+Individual project during java bootcamp <br>
 Private school system that can: <br>
 -Create courses <br>
 -Create students and assign them to courses <br>
